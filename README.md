@@ -8,6 +8,4 @@
 
 [Shell 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-shell-styleguide/contents/)
 
-[Effective Go](https://golang.org/doc/effective_go.html)
-
 [Go Styleguide](https://github.com/bahlo/go-styleguide)
